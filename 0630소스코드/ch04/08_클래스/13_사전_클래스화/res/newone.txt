@@ -1,0 +1,1 @@
+dog,cat,pig,cow,note,-개,고양이,돼지,소,공책,

@@ -1,0 +1,1 @@
+dog,cat,note,flower,rain,-강아지,고양이,공책,꽃,비,
