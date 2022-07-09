@@ -1,7 +1,12 @@
-# d = {1:'a', 2:'b', 3:'c'}
-# print(d.keys()) # key값들을 리스트로변환
-# print(type(d.values()))
-#
+d = {1:'a', 2:'b', 3:'c'}
+
+if list(d.keys()).count(1) >= 1 :
+    print("값이 리스트에 있습니다.")
+else:
+    print("값이 리스트에 없습니다.")
+
+print(type(d.values()))
+
 # d_keys= [1,2,3]
 # d_values = ['a','b','c']
 # d_union = dict(zip(d_keys,d_values))
